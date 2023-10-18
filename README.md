@@ -1,8 +1,8 @@
-# Joseph Poncini 
+Joseph Poncini 
 
-# 10-18-2023 
+10-18-2023 
 
-# About you with style
+About you with style
 
 Project Description: Created a webpage with html and css styles that contains facts about myself
 
