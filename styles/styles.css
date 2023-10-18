@@ -1,0 +1,59 @@
+
+/*General styles*/
+body{
+    background-color: rgb(7, 4, 21);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(217, 208, 30);
+}
+
+h3{
+    padding-left: 45px;
+    color: rgb(40, 209, 2);
+}
+
+hr{
+    height:1px;
+    border-width:1px;
+    color:green;
+    background-color:green"
+}
+
+li{
+    margin-left: 20px;
+    color: rgb(45, 128, 0);
+}
+
+p {
+    text-align: center;
+    color: rgb(45, 128, 0);
+}
+
+a {
+    color:aqua;
+}
+
+/*Style for my header*/
+#myHeader{
+    text-align: center;
+    font-size: 4em;
+    color: rgb(0, 11, 219);
+}
+
+/*Style to center my image*/
+.center-block {
+    text-align: center;
+    height: 70vh; 
+}
+
+.center-inline {
+    vertical-align: middle;
+}
+
+/*Style to center my social media links*/
+.flexMe{
+    display: flex;
+    justify-content: space-evenly;
+}
